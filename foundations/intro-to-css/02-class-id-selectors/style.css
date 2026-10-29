@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #f7b1b1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id {
+    color: #0467e9;
+    font-size: 36px;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: #b4fdd5;
+    font-size: 24px;
+    font-weight: bold;
+}
